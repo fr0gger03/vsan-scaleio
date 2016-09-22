@@ -71,6 +71,8 @@ A quick note
 * 4:15 – 6:00 | Competition
 * 4:15 – 5:00 | Nutanix and how to beat them
 * 5:00 – 5:45 | Other kneebiters and open forum
-* 5:45 – 6:00 | Closing statements
+* 5:45 – 6:00 | Closing statements and assignments
+  * Assign exercise
+  * SurveyMonkey survey
 
 
