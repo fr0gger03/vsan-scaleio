@@ -38,6 +38,8 @@
 ##Pre-Event Homework
 * vSAN HOL - 2 hours for the vSAN hands-on lab
   * http://labs.hol.vmware.com/HOL/catalogs/lab/2493 
+* ScaleIO HOL - 2 hours 
+  * vLab - Deployment and Management of ScaleIO 2.0
 
 ##Overall Daily Schedule
 
