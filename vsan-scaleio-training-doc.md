@@ -96,3 +96,16 @@ A quick note
   * Closing statements and assignments
   * Assign exercise
   * SurveyMonkey survey
+  
+#We Need to Add this in somewhere
+##Cutting to the Chase
+* Market Opportunity
+  * VMware has over 500,000 customers
+  * EMC has ??? customers
+  * Point - we should be getting into these fights
+* Increasing Pipeline
+  * Understanding the server / VMware Environment
+  * Understanding the Storage Environment
+  * Working with the Field (AE / CE / SE / TAM / etc)
+  * Creating proposals
+  * etc...
