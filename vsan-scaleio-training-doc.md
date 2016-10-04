@@ -74,5 +74,21 @@ A quick note
 * 5:45 – 6:00 | Closing statements and assignments
   * Assign exercise
   * SurveyMonkey survey
-
-
+  
+# Possible Market Perspective Content as precursor
+* HCI
+  * What Is It?
+  * Simplifying the architecture?
+  * Use Cases	
+* Economics
+  * Flash costing
+  * Component Cost - server vs. array
+  * Efficiency Technologies
+* Consumption Models
+  * Build your own
+  * Reference Architecture
+  * Appliance
+* Operational Efficiency
+  * Provisioning
+  * Capacity Planning
+  * MTTI / MTTR
