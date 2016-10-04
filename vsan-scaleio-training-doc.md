@@ -47,53 +47,52 @@
 A quick note
 * It has been pointed out several times that there is a dearth of breaks and a scarcity of lunch time.  This is an unfortunate side effect of needing to get 2 tons of face melting awesomesauce into a bag about the size of a Pez dispenser.  We have cut this schedule down several times and we still feel that we could use more time for discussion – and we’re already slave drivers running from 8am to 6pm.  Please be understanding if someone needs to step out several times through the day for a few minutes to clear their head ☺
 * In seats and ready to roll by 8am.  Anyone late on any day has to stand in front of the room and sing the National Anthem.  Music will be provided.  https://www.youtube.com/watch?v=GD1heornT7Y
-* 8:00 – 8:15 – Introductions and overview
+* 8:00 – 8:15 | Introductions and overview
   * Introduce instructors (EMC, VCE, VMware)
   * Introduce folks in class – name, title/function, favorite (legal) activity outside of work
   * What we are trying to accomplish and daily schedule handout QA
   * Expectations – laptops closed, phone calls to a minimum, be on time, we don’t post bail unless you’re instrumental in a LARGE CI deal, etc etc etc
-
-* HCI
+* 8:15 - 9:00 | HCI
   * What Is It?
   * Simplifying the architecture?
   * Use Cases	
-* Economics
+* 9:00 - 10:00 | Economics
   * Flash costing
   * Component Cost - server vs. array
   * Efficiency Technologies
-* Consumption Models
-  * Build your own
-  * Reference Architecture
-  * Appliance
-* Operational Efficiency
+* 10:00 - 10:15 | Break
+* 10:15 - 10:45 | The Case for HCI and Operational Efficiency
   * Provisioning
   * Capacity Planning
   * MTTI / MTTR
+* 10:45 - 11:15 - Consumption Models
+  * Build your own
+  * Reference Architecture
+  * Appliance
+* 11:15 – 12:00 | vSAN Architecture and basics
+* 12:00 - 1:00 | LUNCH
+* 1:00 - 2:00 | vSAN Availability
+  * Understanding Availability
+  * Failure Scenarios and recovery
+* 2:00 - 4:00 | Planning for vSAN
+  * Planning for performance and capacity
+  * Tools and scenarios – how to build vSAN configs that work
+* 4:00 - whenever | Q&A... then Beer
 
-
-
-
-
-
-* 8:15 – 11:45 – vSAN for fun and profit
-* 8:15 – 8:45 | vSAN Architecture and basics
-* 8:45 – 9:15 | Understanding Availability
-* 9:15 – 9:45 | Failure Scenarios and recovery
-* 9:45 – 10:00 | Break (for the weak)
-* 10:00 – 10:45 | Planning for performance and capacity
-* 10:45 – 11:45 | Tools and scenarios – how to build vSAN configs that work
-* 11:45 – 12:15 | Lunch
-* 12:15 – 3:45 | ScaleIO – this ain’t your Daddies SDS!
-* 12:15 – 12:45 | ScaleIO Architecture and basics
-* 12:45 – 1:15 | Understanding Availability
-* 1:15 – 1:45 | Failure Scenarios and recovery
-* 1:45 – 2:00 | Break (for the weak)
-* 2:00 – 2:45 | Planning for performance and capacity
-* 2:45 – 3:45 | Tools and scenarios – how to build vSAN configs that work
-* 3:45 – 4:15 | ScaleIO and vSAN – determining the best fit
-* 4:15 – 6:00 | Competition
-* 4:15 – 5:00 | Nutanix and how to beat them
-* 5:00 – 5:45 | Other kneebiters and open forum
-* 5:45 – 6:00 | Closing statements and assignments
+###Day 2 - 8am to 6pm
+* 8:00 - 11:00 | ScaleIO – this ain’t your Daddies SDS!
+  * ScaleIO Architecture and basics
+  * Understanding Availability
+  * Break (for the weak)
+  * Failure Scenarios and recovery
+* 11:00 – 11:45 | Planning for performance and capacity
+* 11:45 - 12:45 | Lunch
+* 12:45 – 1:45 | Tools and scenarios – how to build vSAN configs that work
+* 1:45 – 2:15 | ScaleIO and vSAN – determining the best fit
+* 2:15 - 2:30 |Break
+* 2:30 – 4:30 | Competition
+  * Nutanix and how to beat them
+  * Other kneebiters and open forum
+  * Closing statements and assignments
   * Assign exercise
   * SurveyMonkey survey
