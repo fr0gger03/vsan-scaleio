@@ -52,6 +52,29 @@ A quick note
   * Introduce folks in class – name, title/function, favorite (legal) activity outside of work
   * What we are trying to accomplish and daily schedule handout QA
   * Expectations – laptops closed, phone calls to a minimum, be on time, we don’t post bail unless you’re instrumental in a LARGE CI deal, etc etc etc
+
+* HCI
+  * What Is It?
+  * Simplifying the architecture?
+  * Use Cases	
+* Economics
+  * Flash costing
+  * Component Cost - server vs. array
+  * Efficiency Technologies
+* Consumption Models
+  * Build your own
+  * Reference Architecture
+  * Appliance
+* Operational Efficiency
+  * Provisioning
+  * Capacity Planning
+  * MTTI / MTTR
+
+
+
+
+
+
 * 8:15 – 11:45 – vSAN for fun and profit
 * 8:15 – 8:45 | vSAN Architecture and basics
 * 8:45 – 9:15 | Understanding Availability
@@ -74,21 +97,3 @@ A quick note
 * 5:45 – 6:00 | Closing statements and assignments
   * Assign exercise
   * SurveyMonkey survey
-  
-# Possible Market Perspective Content as precursor
-* HCI
-  * What Is It?
-  * Simplifying the architecture?
-  * Use Cases	
-* Economics
-  * Flash costing
-  * Component Cost - server vs. array
-  * Efficiency Technologies
-* Consumption Models
-  * Build your own
-  * Reference Architecture
-  * Appliance
-* Operational Efficiency
-  * Provisioning
-  * Capacity Planning
-  * MTTI / MTTR
