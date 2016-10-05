@@ -90,20 +90,10 @@ A quick note
 * 12:45 – 1:45 | Tools and scenarios – how to build vSAN configs that work
 * 1:45 – 2:15 | ScaleIO and vSAN – determining the best fit
 * 2:15 - 2:30 |Break
-* 2:30 – 4:30 | Competition
+* 2:30 – 4:00 | Competition
   * Nutanix and how to beat them
   * Other kneebiters and open forum
-  * Closing statements and assignments
-  * Assign exercise
-  * SurveyMonkey survey
-  
-#We Need to Add this in somewhere
-##Cutting to the Chase
-* Market Opportunity
-  * VMware has over 500,000 customers
-  * EMC has ??? customers
-  * Point - we should be getting into these fights
-* Increasing Pipeline
+* 4:00 - 5:0-0 | CALL TO ACTION - Increasing the Pipeline
   * Understanding the server / VMware Environment
     * How many Virtual Machines?
     * CPU & Memory allocation and utilization?
@@ -121,6 +111,11 @@ A quick note
   * Next Steps (AE / CE / SE / TAM / etc)
     * Gather the information above
     * Identify possible opportunities for unsolicited proposal?
-    * Position vSAN as part of server / storage refresh
+    * Position vSAN / ScaleIO as part of server / storage refresh
     * Hold appropriate education sessions
     * Use appropriate tools for sizing a solution
+
+* Closing statements and assignments
+  * Assign exercise
+  * SurveyMonkey survey
+  
