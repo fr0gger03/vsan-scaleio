@@ -93,29 +93,28 @@ A quick note
 * 2:30 – 4:00 | Competition
   * Nutanix and how to beat them
   * Other kneebiters and open forum
-* 4:00 - 5:0-0 | CALL TO ACTION - Increasing the Pipeline
-  * Understanding the server / VMware Environment
-    * How many Virtual Machines?
-    * CPU & Memory allocation and utilization?
-    * How many physical vSphere Hosts?
-    * How many unvirtualized x86 Hosts?
-    * What is the server refresh cycle, and when is the next refresh event?
-    * What is the server OEM? 
-    * Is there a VMware ELA event, and when?
-  * Understanding the Storage Environment
-    * How much storage is on the floor? FC / NFS?
-    * Storage allocation and utilization?
-    * How many physical arrays?
-    * What is the storage refresh cycle, and when is the next refresh event?
-    * What is the storage OEM? 
-  * Next Steps (AE / CE / SE / TAM / etc)
-    * Gather the information above
-    * Identify possible opportunities for unsolicited proposal?
-    * Position vSAN / ScaleIO as part of server / storage refresh
-    * Hold appropriate education sessions
-    * Use appropriate tools for sizing a solution
-
+* 4:00 - 5:00 | CALL TO ACTION - Increasing the Pipeline
+ * Understanding the server / VMware Environment
+  * How many Virtual Machines?
+  * CPU & Memory allocation and utilization?
+  * How many physical vSphere Hosts?
+  * How many unvirtualized x86 Hosts?
+  * What is the server refresh cycle, and when is the next refresh event?
+  * What is the server OEM? 
+  * Is there a VMware ELA event, and when?
+ * Understanding the Storage Environment
+  * How much storage is on the floor? FC / NFS?
+  * Storage allocation and utilization?
+  * How many physical arrays?
+  * What is the storage refresh cycle, and when is the next refresh event?
+  * What is the storage OEM? 
+ * Next Steps (AE / CE / SE / TAM / etc)
+  * Gather the information above
+  * Identify possible opportunities for unsolicited proposal?
+  * Position vSAN / ScaleIO as part of server / storage refresh
+  * Hold appropriate education sessions
+  * Use appropriate tools for sizing a solution
 * Closing statements and assignments
-  * Assign exercise
-  * SurveyMonkey survey
+ * Assign exercise
+ * SurveyMonkey survey
   
