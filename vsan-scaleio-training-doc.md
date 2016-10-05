@@ -7,15 +7,15 @@
 4. Required result – to continue education around competitive offerings and how to defeat them in the field.
 5. Desired Result – understand how Dell fits into this…  we should be including a section on Ready Nodes.
 6. Desired Result - understand delivery / implemtentation options
- 1. BYO with any vendor
- 2. Ready Nodes – what are they, where to find them?
- 3. VMware Ready Nodes –
-  1. What is a Server Profile?
-  2. Identify and Define performance and capacity metrics used for profiles
-  3. What are the different server profiles?
-  4. Ready Nodes with Dell
- 4. ScaleIO Ready Nodes
-  1. Something similar to above for ScaleIO?
+  1. BYO with any vendor
+  2. Ready Nodes – what are they, where to find them?
+  3. VMware Ready Nodes –
+    1. What is a Server Profile?
+    2. Identify and Define performance and capacity metrics used for profiles
+    3. What are the different server profiles?
+    4. Ready Nodes with Dell
+  4. ScaleIO Ready Nodes
+    1. Something similar to above for ScaleIO?
 
 * The training is suggested to last 1 day (at this point ☺)
 * We should include cross-Federation and cross-functional groups (VCE, VMware, EMC, DPS, etc) wherever possible.
