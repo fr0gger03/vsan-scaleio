@@ -6,7 +6,7 @@
 3. Required Result – clearly identify use cases / customer problems for each technology, when and how to position the correct solution.
 4. Required result – to continue education around competitive offerings and how to defeat them in the field.
 5. Desired Result – understand how Dell fits into this…  we should be including a section on Ready Nodes.
-6. Desired Result - understand delivery / implemtentation options
+6. Desired Result - understand delivery / implementation options
   1. BYO with any vendor
   2. Ready Nodes – what are they, where to find them?
   3. VMware Ready Nodes –
