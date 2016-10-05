@@ -105,7 +105,22 @@ A quick note
   * Point - we should be getting into these fights
 * Increasing Pipeline
   * Understanding the server / VMware Environment
+    * How many Virtual Machines?
+    * CPU & Memory allocation and utilization?
+    * How many physical vSphere Hosts?
+    * How many unvirtualized x86 Hosts?
+    * What is the server refresh cycle, and when is the next refresh event?
+    * What is the server OEM? 
+    * Is there a VMware ELA event, and when?
   * Understanding the Storage Environment
-  * Working with the Field (AE / CE / SE / TAM / etc)
-  * Creating proposals
-  * etc...
+    * How much storage is on the floor? FC / NFS?
+    * Storage allocation and utilization?
+    * How many physical arrays?
+    * What is the storage refresh cycle, and when is the next refresh event?
+    * What is the storage OEM? 
+  * Next Steps (AE / CE / SE / TAM / etc)
+    * Gather the information above
+    * Identify possible opportunities for unsolicited proposal?
+    * Position vSAN as part of server / storage refresh
+    * Hold appropriate education sessions
+    * Use appropriate tools for sizing a solution
