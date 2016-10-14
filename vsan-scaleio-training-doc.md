@@ -1,4 +1,4 @@
-#2016 Dell|EMC SDS Training Schedule
+#2016 Dell | EMC SDS Training Schedule
 
 ##High level objectives
 1. Required result - we are trying to get the SE population moving towards a place where they can successfully and confidently present, size, and sell software defined storage solutions.
@@ -21,7 +21,7 @@
 * We should include cross-Federation and cross-functional groups (VCE, VMware, EMC, DPS, etc) wherever possible.
 * Let the SMEs in each area cover their subject (VMware talk about VMware sizing, EMC talks about storage, etc) – BUT all groups need to be present and provide support.  
 * We need to have this done and locked down by about the middle of March (at the latest) so Dan has time to lock down resources, locations, and calendars.
-* The entire 3 day session will be led by a team of EMC, VMware, and VCE SEs with SMEs brought in as needed.  In other words – there will be one deck and three presenters that will take turns and interweave their messages.  ONE TEAM – ONE FEDERATION!
+* The session will be led by a team of EMC, VMware, and VCE SEs with SMEs brought in as needed.  In other words – there will be one deck and multiple presenters that will take turns and interweave their messages.  ONE TEAM – ONE FEDERATION!
 
 ##Needed items from Leadership 
 * A presenter from each manufacturer that is qualified to present the materials herein.  There should be a representative from EMC, VCE, and VMware
@@ -56,50 +56,31 @@ A quick note
   * What Is It?
   * Simplifying the architecture?
   * Use Cases	
-* 9:00 - 10:00 | Economics
+* 9:00 - 9:30 | Economics
   * Flash costing
   * Component Cost - server vs. array
   * Efficiency Technologies
-* 10:00 - 10:15 | Break
-* 10:15 - 10:45 | The Case for HCI and Operational Efficiency
+* 9:30 - 10:00 | The Case for HCI and Operational Efficiency
   * Provisioning
   * Capacity Planning
   * MTTI / MTTR
-* 10:45 - 11:15 - Consumption Models
+* 10:00 - 10:15 | Break
+* 10:15 - 10:45 - Consumption Models
   * Build your own
   * Reference Architecture
   * Appliance
-* 11:15 – 12:00 | vSAN Architecture and basics
+* 10:45 – 11:15 | vSAN Architecture and basics
+* 11:15 - 12:00 | vSAN Availability
+  * Understanding Availability
+  * Failure Scenarios and recovery
 * 12:00 - 1:00 | LUNCH
-* 1:00 - 2:00 | vSAN Availability
-  * Understanding Availability
-  * Failure Scenarios and recovery
-* 2:00 - 4:00 | Planning for vSAN
-  * Planning for performance and capacity
-  * Tools and scenarios – how to build vSAN configs that work
-* 4:00 - whenever | Q&A... then Beer
-
-###Day 2 - 8am to 6pm
-* 8:00 - 11:00 | ScaleIO – this ain’t your Daddies SDS!
-  * ScaleIO Architecture and basics
-  * Understanding Availability
-  * Break (for the weak)
-  * Failure Scenarios and recovery
-* 11:00 – 11:45 | Planning for performance and capacity
-* 11:45 - 12:45 | Lunch
-* 12:45 – 1:45 | Tools and scenarios – how to build vSAN configs that work
-* 1:45 – 2:15 | ScaleIO and vSAN – determining the best fit
-* 2:15 - 2:30 |Break
-* 2:30 – 4:00 | Competition
-  * Nutanix and how to beat them
-  * Other kneebiters and open forum
-* 4:00 - 5:00 | CALL TO ACTION - Increasing the Pipeline
+* 1:00 - 3:00 | Planning for vSAN
   * Understanding the server / VMware Environment
     * How many Virtual Machines?
     * CPU & Memory allocation and utilization?
+    * Storage necessary for those virtual machines?
     * How many physical vSphere Hosts?
     * How many unvirtualized x86 Hosts?
-    * What is the server refresh cycle, and when is the next refresh event?
     * What is the server OEM? 
     * Is there a VMware ELA event, and when?
   * Understanding the Storage Environment
@@ -107,14 +88,16 @@ A quick note
     * Storage allocation and utilization?
     * How many physical arrays?
     * What is the storage refresh cycle, and when is the next refresh event?
-    * What is the storage OEM? 
+    * What is the storage OEM?   * Planning for performance and capacity
+  * Tools and scenarios – how to build vSAN configs that work
+* 3:00 - 3:15 | Break
+* 3:15 - 4:00 | Winning Against Nutanix
+* 4:00 - 5:00 | CALL TO ACTION - Increasing the Pipeline
   * Next Steps (AE / CE / SE / TAM / etc)
-    * Gather the information above
+    * Gather the information above (from the "Planning" session)
+    * What is the server refresh cycle, and when is the next refresh event?
     * Identify possible opportunities for unsolicited proposal?
-    * Position vSAN / ScaleIO as part of server / storage refresh
+    * Position vSAN as part of server / storage refresh
     * Hold appropriate education sessions
     * Use appropriate tools for sizing a solution
-* Closing statements and assignments
-  * Assign exercise
-  * SurveyMonkey survey
-  
+* 5:00 - whenever | Q&A... then Beer
