@@ -14,8 +14,10 @@
     2. Identify and Define performance and capacity metrics used for profiles
     3. What are the different server profiles?
     4. Ready Nodes with Dell
-  4. ScaleIO Ready Nodes
-    1. Something similar to above for ScaleIO?
+  4. HCI Appliance
+    1. VxRAIL
+    2. VxRACK?
+
 
 * The training is suggested to last 1 day (at this point ☺)
 * We should include cross-Federation and cross-functional groups (VCE, VMware, EMC, DPS, etc) wherever possible.
@@ -38,8 +40,6 @@
 ##Pre-Event Homework
 * vSAN HOL - 2 hours for the vSAN hands-on lab
   * http://labs.hol.vmware.com/HOL/catalogs/lab/2493 
-* ScaleIO HOL - 2 hours 
-  * vLab - Deployment and Management of ScaleIO 2.0
 
 ##Overall Daily Schedule
 
@@ -48,7 +48,7 @@ A quick note
 * It has been pointed out several times that there is a dearth of breaks and a scarcity of lunch time.  This is an unfortunate side effect of needing to get 2 tons of face melting awesomesauce into a bag about the size of a Pez dispenser.  We have cut this schedule down several times and we still feel that we could use more time for discussion – and we’re already slave drivers running from 8am to 6pm.  Please be understanding if someone needs to step out several times through the day for a few minutes to clear their head ☺
 * In seats and ready to roll by 8am.  Anyone late on any day has to stand in front of the room and sing the National Anthem.  Music will be provided.  https://www.youtube.com/watch?v=GD1heornT7Y
 * 8:00 – 8:15 | Introductions and overview
-  * Introduce instructors (EMC, VCE, VMware)
+  * Introduce instructors
   * Introduce folks in class – name, title/function, favorite (legal) activity outside of work
   * What we are trying to accomplish and daily schedule handout QA
   * Expectations – laptops closed, phone calls to a minimum, be on time, we don’t post bail unless you’re instrumental in a LARGE CI deal, etc etc etc
