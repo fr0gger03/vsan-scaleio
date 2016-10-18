@@ -25,21 +25,21 @@
 * We need to have this done and locked down by about the middle of March (at the latest) so Dan has time to lock down resources, locations, and calendars.
 * The session will be led by a team of EMC, VMware, and VCE SEs with SMEs brought in as needed.  In other words – there will be one deck and multiple presenters that will take turns and interweave their messages.  ONE TEAM – ONE FEDERATION!
 
-##Needed items from Leadership 
+##Needed items from Leadership
 * A presenter from each manufacturer that is qualified to present the materials herein.  There should be a representative from EMC, VCE, and VMware
 * Any other specialists that are needed for the material listed below
 * Presentation materials, demos, or whiteboards for each section
 * The manufacturers should choose one individual to be the overall spokesman and MC to keep things on track
 * A facility large enough to seat everyone comfortably
 * A whiteboard and a projector
-* Food – lunch will be provided 
+* Food – lunch will be provided
 * A mic for the presenters if necessary
 * Shared (SyncP or fileserver) scenario for the take home exercise
 * A functioning clock and the will to use it.  The timing is critical to maintain – we will need to be brutal with time.
 
 ##Pre-Event Homework
 * vSAN HOL - 2 hours for the vSAN hands-on lab
-  * http://labs.hol.vmware.com/HOL/catalogs/lab/2493 
+  * http://labs.hol.vmware.com/HOL/catalogs/lab/2493
 
 ##Overall Daily Schedule
 
@@ -55,7 +55,7 @@ A quick note
 * 8:15 - 9:00 | HCI
   * What Is It?
   * Simplifying the architecture?
-  * Use Cases	
+  * Use Cases
 * 9:00 - 9:30 | Economics
   * Flash costing
   * Component Cost - server vs. array
@@ -81,23 +81,22 @@ A quick note
     * Storage necessary for those virtual machines?
     * How many physical vSphere Hosts?
     * How many unvirtualized x86 Hosts?
-    * What is the server OEM? 
+    * What is the server OEM?
     * Is there a VMware ELA event, and when?
-  * Understanding the Storage Environment
-    * How much storage is on the floor? FC / NFS?
-    * Storage allocation and utilization?
-    * How many physical arrays?
-    * What is the storage refresh cycle, and when is the next refresh event?
-    * What is the storage OEM?   * Planning for performance and capacity
+  * Gathering needed data
+    * How do you get VMware info with Mitrends?
+    * Evaluating the data returned
   * Tools and scenarios – how to build vSAN configs that work
+    * VSAN sizing Tools
+    * Creating actionable configs with VSAN and Mitrends data
 * 3:00 - 3:15 | Break
 * 3:15 - 4:00 | Winning Against Nutanix
+  * How does Nutanix win?
+  * Nutanix strengths (what's real)
+  * Nutanix weakness (what's not FUD)
+  * There's no silver bullets - but how to win
 * 4:00 - 5:00 | CALL TO ACTION - Increasing the Pipeline
-  * Next Steps (AE / CE / SE / TAM / etc)
-    * Gather the information above (from the "Planning" session)
-    * What is the server refresh cycle, and when is the next refresh event?
-    * Identify possible opportunities for unsolicited proposal?
-    * Position vSAN as part of server / storage refresh
-    * Hold appropriate education sessions
-    * Use appropriate tools for sizing a solution
+  * Real world Scenarios
+  * Walk through a scenario with Mitrends data and VSAN sizing information
+  * Work on your own for a second config
 * 5:00 - whenever | Q&A... then Beer
