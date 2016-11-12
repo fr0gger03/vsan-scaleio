@@ -89,6 +89,7 @@ A quick note
   * Tools and scenarios – how to build vSAN configs that work
     * VSAN sizing Tools
     * Creating actionable configs with VSAN and Mitrends data
+    * Creating actionable configs with VSAN and DPACK data
 * 3:00 - 3:15 | Break
 * 3:15 - 4:00 | Winning Against Nutanix
   * How does Nutanix win?
