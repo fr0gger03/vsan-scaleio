@@ -76,15 +76,10 @@ A quick note
 * 12:00 - 1:00 | LUNCH
 * 1:00 - 3:00 | Planning for vSAN
   * Understanding the server / VMware Environment
-    * How many Virtual Machines?
-    * CPU & Memory allocation and utilization?
-    * Storage necessary for those virtual machines?
-    * How many physical vSphere Hosts?
-    * How many unvirtualized x86 Hosts?
-    * What is the server OEM?
-    * Is there a VMware ELA event, and when?
+    * How is sizing vSphere / vSAN different than traditional storage?
   * Gathering needed data
     * How do you get VMware info with Mitrends?
+    * How do you get VMware info with DPACK?    
     * Evaluating the data returned
   * Tools and scenarios – how to build vSAN configs that work
     * VSAN sizing Tools
