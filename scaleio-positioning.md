@@ -1,10 +1,10 @@
 My goal is to switch from leading with ScaleIO to leading with vSAN instead.  Randall Gressett (EMC Area Manager for the Southeast) agrees, and has the following strategy:
-1. Lead with VxRAIL and vSAN for vSphere environments – simplest and most tightly integrated HCI solution.  Period.  EMC wins.
-2. If Nutanix gains a foothold, relegate them to the non-VMware environment, but make sure it goes in on Dell gear. EMC wins.
-3. The customer is truly looking for multihypervisor, scale-out HCI, then lead with ScaleIO.  EMC Wins.
+1.Lead with VxRAIL and vSAN for vSphere environments – simplest and most tightly integrated HCI solution.  Period.  EMC wins.
+2.If Nutanix gains a foothold, relegate them to the non-VMware environment, but make sure it goes in on Dell gear. EMC wins.
+3.The customer is truly looking for multihypervisor, scale-out HCI, then lead with ScaleIO.  EMC Wins.
   * Thus far very few customers actually see this as a need – competitors like Nutanix and Microsoft are playing their cards well… “Well, you won’t always be on VMware, will you?”
-  * This is false premise - The fact is vSphere is still 80% or more of their customers.  Don’t let them move the goalposts on you…
-c.       The implication here is clearly that ScaleIO, seen in this light, is clearly the niche player.
+  * This is a false premise - The fact is vSphere is still 80% or more of their customers.  Don’t let them move the goalposts on you…
+  * The implication here is clearly that ScaleIO, seen in this light, is clearly the niche player.
  
  
 I try to point out the problem with their current positioning thusly:
